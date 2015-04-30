@@ -1,6 +1,6 @@
 WordPress Ignition
 
-This is an ongoing personal project, using the awesome starter theme _Underscores and hacking it up to create my own blank/starter theme. Integrating Bootstrap and Zurb's Foundation as possible framework options, using sass as the css preprocessor and creating basic styles for each page in the theme.
+This is an ongoing personal project, using the awesome starter theme <a href="http://underscores.me/" target="_blank">_Underscores</a> and hacking it up to create my own blank/starter theme. Integrating Bootstrap and Zurb's Foundation as possible framework options, using sass as the css preprocessor and creating basic styles for each page in the theme.
 
 Why?
 
